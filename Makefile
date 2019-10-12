@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 10
 SUBLEVEL = 108
-EXTRAVERSION =-Hyper
-NAME = END-OF-LIFE
+EXTRAVERSION =-Darkness
+NAME = INACTIVE
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
