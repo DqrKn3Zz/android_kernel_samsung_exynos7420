@@ -3,7 +3,7 @@
 # Linux/arm64 3.10.61 Kernel Configuration
 #
 
-# Darkness-Kernel (based on Hyper)
+# Carbonium-Kernel (based on Hyper)
 ################################
 CONFIG_STATE_NOTIFIER=y
 ###############################
